@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **I am currently making a lot of projects in AI**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
