@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnu0107" alt="vishnu0107" /></a> </p>
 
-- ⚡ Fun fact **I currently making a lot of projects in AI**
+- ⚡ Fun fact **I am currently making a lot of projects in AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
