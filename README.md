@@ -18,3 +18,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnu0107&show_icons=true&locale=en" alt="vishnu0107" /></p>
 
+<p><img align="left" src="![Alphago](https://github.com/user-attachments/assets/c99a085e-09b1-4b28-87f6-1b13f679eab6)
+" alt="vishnu0107"/></p>
