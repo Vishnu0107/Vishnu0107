@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishnu Narayanan Vinodkumar</h1>
+<h1 align="center">Hello fellow peeps 👋, I'm Vishnu Narayanan Vinodkumar</h1>
 <h3 align="center">Apparently I like AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu0107&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu0107" /> </p>
