@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnu0107&show_icons=true&locale=en" alt="vishnu0107" /></p>
 
-<p>!<img src =[Alphago](https://github.com/user-attachments/assets/c99a085e-09b1-4b28-87f6-1b13f679eab6)/></p>
+<p>!<img src ="https://media1.giphy.com/media/WxJLwDBAXDsW1fqZ3v/giphy.gif?cid=6c09b952dvgng9gaq4nomsst1bqow8f7oohplpd59kuu2vbu&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/></p>
