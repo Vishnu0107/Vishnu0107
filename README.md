@@ -2,13 +2,12 @@
 ---
 <h3 align="left">I'm an AI Developer from India specializing in building intelligent systems and advanced AI models. I've developed object detectors, implemented Transformer architectures (based on 'Attention is All You Need') for English-Italian translation using PyTorch, created Retrieval-Augmented Generation (RAG) systems for PDF processing, and built chatbots using libraries like RASA and APIs. My focus is on deploying robust AI solutions that effectively address complex problems.</h3>
 
----
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu0107&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu0107" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnu0107" alt="vishnu0107" /></a> </p>
 
----
+
 
 ## Connect with Me
 
