@@ -7,7 +7,7 @@
 
 - [Email](mailto:vishnunarayananpsv@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/vnvk)
-- .[X](https://x.com/_Centronox_)
+- [X](https://x.com/_Centronox_)
   
 <p align="left">
 </p>
