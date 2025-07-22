@@ -1,4 +1,4 @@
-<h1 align="center">Hello fellow peeps 👋, I'm Vishnu Narayanan Vinodkumar</h1>
+<h1 align="center">Hello everyone, I'm Vishnu Narayanan Vinodkumar</h1>
 
 <h3 align="left">I'm an AI Developer from India specializing in building intelligent systems and advanced AI models. I've developed object detectors, implemented Transformer architectures (based on 'Attention is All You Need') for English-Italian translation using PyTorch, created Retrieval-Augmented Generation (RAG) systems for PDF processing, built chatbots using libraries like RASA and APIs, and even made agentic workflows. My focus is on deploying robust AI solutions that effectively address complex problems.</h3>
 
